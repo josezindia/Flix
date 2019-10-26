@@ -24,7 +24,8 @@ GIF created with [Recordit](https://recordit.co).
 
 ### Notes
 Describe any challenges encountered while building the app.
--I had issues pulling the images using the given API, it took me forever. 
+
+I had issues pulling the images using the given API, it took me forever. 
 
 
 ## Flix Part 2
@@ -46,6 +47,7 @@ GIF created with [Recordit](https://recordit.co).
 
 ### Notes
 Describe any challenges encountered while building the app.
---Navigating the 'automatic' assistant 
+
+Navigating the 'automatic' assistant 
 
 
