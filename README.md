@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src='http://g.recordit.co/dvKBu7cfEM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/dvKBu7cfEM.gif' title='Video Walkthrough' width=''height='700' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co).
 
